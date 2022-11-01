@@ -1,0 +1,48 @@
+Author: Gambardella, Matthew
+Title: com.adv.java.xml.XML Developer's Guide
+Price: $44.95
+
+Author: Ralls, Kim
+Title: Midnight Rain
+Price: $5.95
+
+Author: Corets, Eva
+Title: Maeve Ascendant
+Price: $5.95
+
+Author: Corets, Eva
+Title: Oberon's Legacy
+Price: $5.95
+
+Author: Corets, Eva
+Title: The Sundered Grail
+Price: $5.95
+
+Author: Randall, Cynthia
+Title: Lover Birds
+Price: $4.95
+
+Author: Thurman, Paula
+Title: Splish Splash
+Price: $4.95
+
+Author: Knorr, Stefan
+Title: Creepy Crawlies
+Price: $4.95
+
+Author: Kress, Peter
+Title: Paradox Lost
+Price: $6.95
+
+Author: O'Brien, Tim
+Title: Microsoft .NET: The Programming Bible
+Price: $36.95
+
+Author: O'Brien, Tim
+Title: MSXML3: A Comprehensive Guide
+Price: $36.95
+
+Author: Galos, Mike
+Title: Visual Studio 7: A Comprehensive Guide
+Price: $49.95
+
